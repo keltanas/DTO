@@ -1,5 +1,5 @@
 {
-  "name": "keltanas/DTO",
+  "name": "keltanas/dto",
   "license": "MIT",
   "description": "Simple implementation of usage DTO pattern",
   "type": "library",
